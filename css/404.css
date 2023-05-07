@@ -10,7 +10,7 @@
 body {
 	background: #f1f1f1;
 	color: #242424;
-	font: 1em "Hind", Arial, sans-serif;
+	font: 1em "Verdana", Arial, sans-serif;
 	line-height: 1.5;
 }
 a {
@@ -27,7 +27,7 @@ a:visited {
 	color: #5785f6;
 }
 h1 {
-	font: 2em "Ubuntu", Arial, sans-serif;
+	font: 2em "Verdana", Arial, sans-serif;
 	line-height: 1.5;
 	margin-bottom: .75em;
 }
